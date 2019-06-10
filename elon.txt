@@ -5,4 +5,9 @@ boring company
 neurox-
 and 100other companies
 I think he has ADHD
+<<<<<<< HEAD
 this is funny
+=======
+
+edit okay
+>>>>>>> 4fa71a8dc0cd1ad5641d323bfce8f15d004109ac
